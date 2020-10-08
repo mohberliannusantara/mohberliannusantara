@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!-- I'm Moh. Berlian Nusantara, i'm a fresh graduate of Informatics Engineering.
+I'm good at managing a project, I'm also good to define the business process, requirement gathering, analyze what the client needed, analyze the process of your business, and etc.
+
+Specializes in making UI UX experience for web and mobile. making a user stories, wireframing, prototyping, user flows, user personas and also a Web developers with php and react framework.
+-->
+
 <!--
 **mohberliannusantara/mohberliannusantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
